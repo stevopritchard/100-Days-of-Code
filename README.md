@@ -8,3 +8,11 @@ A record of my progress, and links to associated projects, that I have worked on
 
 ## Daily Log
 Day 1: Set up repo 😅 and added links to some finished projects.
+
+### Days missed
+- Mon 1 Feb
+- Fri 5 Feb
+- Sat 6 Feb
+- Sun 7 Feb
+- Sat 13 Feb
+- Sun 14 Feb
