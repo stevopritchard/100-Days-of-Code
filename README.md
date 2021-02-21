@@ -16,3 +16,4 @@ Day 1: Set up repo 😅 and added links to some finished projects.
 - Sun 7 Feb
 - Sat 13 Feb
 - Sun 14 Feb
+- Sat 20 Feb
