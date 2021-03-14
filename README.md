@@ -6,6 +6,8 @@ A record of my progress, and links to associated projects, that I have worked on
 
 ### ['¡Conjugado!' web app for conjugating Spanish verbs](https://conjugado-frontend.herokuapp.com/)
 
+### [Coding Challenge #1: Blockchain](https://github.com/stevopritchard/Challenge-1-Blockchain)
+
 ## Daily Log
 Day 1: Set up repo 😅 and added links to some finished projects.
 
@@ -18,3 +20,4 @@ Day 1: Set up repo 😅 and added links to some finished projects.
 - Sun 14 Feb
 - Sat 20 Feb
 - Sun 28 Feb
+- Sun 14 Mar
